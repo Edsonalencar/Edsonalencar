@@ -1,8 +1,8 @@
 ## Opaa! eu sou o Edson Alencar
  <div>
   <a href="https://github.com/edsonalencar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edsonalencar&locale=pt-br&show_icons=true&theme=radical&title_color=00BFFF&text_color=f7f7f7&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonalencar&locale=pt-br&title_color=00BFFF&text_color=f7f7f7&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=edsonalencar&locale=pt-br&show_icons=true&theme=radical&title_color=00BFFF&text_color=f7f7f7&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonalencar&locale=pt-br&title_color=00BFFF&text_color=f7f7f7&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
