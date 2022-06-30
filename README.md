@@ -1,4 +1,4 @@
-## Opaa! eu sou o Edson Alencar
+## Opaa! me chamo Edson Alencar, atualmente sou Pesquisador e Desenvolvedor Front-End no Laboraorio de Inovação Tecnologica em Saúde, e essas são algumas das minhas Skills:
  <div>
   <a href="https://github.com/edsonalencar">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=edsonalencar&locale=pt-br&show_icons=true&theme=radical&title_color=00BFFF&text_color=f7f7f7&include_all_commits=true&count_private=true"/>
