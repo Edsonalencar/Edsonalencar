@@ -9,8 +9,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v3
+
       - uses: Platane/snk@v3
-        id: snake_generation
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
@@ -20,11 +21,11 @@ jobs:
         run: |
           git config --global user.email "github-actions@github.com"
           git config --global user.name "github-actions"
-          git clone --single-branch --branch=output https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository_owner }}/${{ github.repository_owner }}.git output
+          git clone --single-branch --branch=output https://github.com/${{ github.repository_owner }}/${{ github.repository_owner }}.git output
           cd output
           cp -f ../dist/github-contribution-grid-snake.svg ./
           git add .
           git commit -m "Updated Snake animation" || echo "No changes to commit"
-          git push
+          git push "https://${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository_owner }}/${{ github.repository_owner }}.git" output
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
