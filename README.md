@@ -2,8 +2,7 @@
 <p>Sou um Desenvolvedor Full Stack apaixonado por tecnologia, arquitetura de software e inovação. Minha jornada na programação começou pelo fascínio em criar coisas do zero, e hoje me especializo no desenvolvimento de soluções escaláveis e de alta performance.</p>
 
   <a href="https://github.com/edsonalencar">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=edsonalencar&locale=pt-br&show_icons=true&theme=radical&title_color=00BFFF&text_color=f7f7f7&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonalencar&locale=pt-br&title_color=00BFFF&text_color=f7f7f7&layout=compact&langs_count=7&theme=tokyonight"/>
+   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
   </a>
 
 
