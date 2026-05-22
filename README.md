@@ -1,9 +1,7 @@
 ## 👋 Opaa! me chamo Edson Alencar
 <p>Sou um Desenvolvedor Full Stack apaixonado por tecnologia, arquitetura de software e inovação. Minha jornada na programação começou pelo fascínio em criar coisas do zero, e hoje me especializo no desenvolvimento de soluções escaláveis e de alta performance.</p>
 
-  <a href="https://github.com/edsonalencar">
-   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-  </a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edsonalencar)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div style="display: inline_block"><br>
